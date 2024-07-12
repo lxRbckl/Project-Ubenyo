@@ -16,6 +16,6 @@
 [`pyautogui`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/pyautogui.md)
 [`discord py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py.md)
 [**`Shell`**](https://github.com/lxRbckl/lxRbckl/blob/main/Shell/README.md)
-[**`Mac OS`**](https://github.com/lxRbckl/lxRbckl/blob/main/Mac-OS/README.md)
+[**`MacOS`**](https://github.com/lxRbckl/lxRbckl/blob/main/MacOS/README.md)
 
 #
